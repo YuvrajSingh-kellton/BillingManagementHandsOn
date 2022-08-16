@@ -1,0 +1,15 @@
+D:\C# Programs\BillingInventoryManagement\bin\Debug\net6.0\BillingInventoryManagement.exe
+D:\C# Programs\BillingInventoryManagement\bin\Debug\net6.0\BillingInventoryManagement.deps.json
+D:\C# Programs\BillingInventoryManagement\bin\Debug\net6.0\BillingInventoryManagement.runtimeconfig.json
+D:\C# Programs\BillingInventoryManagement\bin\Debug\net6.0\BillingInventoryManagement.dll
+D:\C# Programs\BillingInventoryManagement\bin\Debug\net6.0\BillingInventoryManagement.pdb
+D:\C# Programs\BillingInventoryManagement\obj\Debug\net6.0\BillingInventoryManagement.csproj.AssemblyReference.cache
+D:\C# Programs\BillingInventoryManagement\obj\Debug\net6.0\BillingInventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programs\BillingInventoryManagement\obj\Debug\net6.0\BillingInventoryManagement.AssemblyInfoInputs.cache
+D:\C# Programs\BillingInventoryManagement\obj\Debug\net6.0\BillingInventoryManagement.AssemblyInfo.cs
+D:\C# Programs\BillingInventoryManagement\obj\Debug\net6.0\BillingInventoryManagement.csproj.CoreCompileInputs.cache
+D:\C# Programs\BillingInventoryManagement\obj\Debug\net6.0\BillingInventoryManagement.dll
+D:\C# Programs\BillingInventoryManagement\obj\Debug\net6.0\refint\BillingInventoryManagement.dll
+D:\C# Programs\BillingInventoryManagement\obj\Debug\net6.0\BillingInventoryManagement.pdb
+D:\C# Programs\BillingInventoryManagement\obj\Debug\net6.0\BillingInventoryManagement.genruntimeconfig.cache
+D:\C# Programs\BillingInventoryManagement\obj\Debug\net6.0\ref\BillingInventoryManagement.dll
